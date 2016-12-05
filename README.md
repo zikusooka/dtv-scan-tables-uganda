@@ -1,4 +1,4 @@
-dtv-scan-tables-uganda
-======================
+DVB-T Scan tables for Africa
+============================
 
-A fork of the dtv-scan-tables with DVB-T scan files for uganda
+dtv-scan-tables with DVB-T scan files for African cities
